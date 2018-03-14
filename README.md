@@ -1,4 +1,4 @@
-Spock Framework Example Project
+Spock Framework Example Project.
 ===============================
 
 The purpose of this project is to help you get started with Spock. The project includes several example specifications and build scripts for Ant, Gradle, and Maven. It also makes it easy to create an Eclipse or IDEA project, allowing you to run the example specs from within your IDE.
